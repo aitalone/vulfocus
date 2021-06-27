@@ -4,6 +4,18 @@ Vulfocus 镜像维护目录，该目录中存储 Vulfocus 所有的 Dockerfile �
 
 | 漏洞名称         | 拉取命令                                  | 描述             |贡献者|
 | :--------------- | :--------------------------------------------------- | :--------------- |:--------------- |
+|CVE-2021-22214|`docker pull vulfocus/gitlab-cve_2021_22214`|CVE-2021-22214|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CNVD-2018-01221|`docker pull vulfocus/dedecms-cnvd_2018_01221`|CNVD-2018-01221|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2021-23017|`docker pull vulfocus/nginx-cve_2021_23017`|CVE-2021-23017|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2017-15709|`docker pull vulfocus/activemq-cve_2017_15709`|CVE-2017-15709|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2016-3088|`docker pull vulfocus/activemq-cve_2016_3088`|CVE-2016-3088|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2018-12491|`docker pull vulfocus/phpok-cve_2018_12491`|CVE-2018-12491|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2021-29505|`docker pull vulfocus/xstream-cve_2021_29505`|CVE-2021-29505|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2021-21351|`docker pull vulfocus/xstream-cve_2021_21351`|CVE-2021-21351|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2020-11444|`docker pull vulfocus/nexus-cve_2020_11444`|CVE-2020-11444|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2019-5475|`docker pull vulfocus/nexus-cve_2019_5475`|CVE-2019-5475|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CNVD-2019-21763|`docker pull vulfocus/redis-cnvd_2019_21763`|CNVD-2019-21763|[Vulfocus](https://github.com/fofapro/vulfocus)|
+|CVE-2019-11231|`docker pull vulfocus/getsimple-cve_2019_11231`|CVE-2019-11231|[Vulfocus](https://github.com/fofapro/vulfocus)|
 |CVE-2018-19462|`docker pull vulfocus/empire-cve_2018_19462`|CVE-2018-19462|[Vulfocus](https://github.com/fofapro/vulfocus)|
 |CVE-2021-21315|`docker pull vulfocus/node.js-cve_2021_21315`|CVE-2021-21315|[Vulfocus](https://github.com/fofapro/vulfocus)|
 |PHP 8.1.0-dev 后门|`docker pull vulfocus/php8.1.0-dev`|PHP 8.1.0-dev 后门|[Vulfocus](https://github.com/fofapro/vulfocus)|
@@ -145,6 +157,24 @@ Vulfocus 镜像维护目录，该目录中存储 Vulfocus 所有的 Dockerfile �
 | CVE-2014-3120    | `docker pull vulfocus/elasticsearch-cve_2014_3120`   | CVE-2014-3120    | [Vulfocus](https://github.com/fofapro/vulfocus)|
 
 ## 镜像新增日志
+
+2021-06-25
+
+- vulfocus/gitlab-cve_2021_22214
+- vulfocus/dedecms-cnvd_2018_01221
+- vulfocus/nginx-cve_2021_23017
+- vulfocus/activemq-cve_2017_15709
+- vulfocus/activemq-cve_2016_3088
+- vulfocus/phpok-cve_2018_12491
+
+2021-06-18
+
+- vulfocus/xstream-cve_2021_29505
+- vulfocus/xstream-cve_2021_21351
+- vulfocus/nexus-cve_2020_11444
+- vulfocus/nexus-cve_2019_5475
+- vulfocus/redis-cnvd_2019_21763
+- vulfocus/getsimple-cve_2019_11231
 
 2021-06-11
 
